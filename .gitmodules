@@ -1,3 +1,3 @@
 [submodule "content"]
 	path = content
-	url = git@github.com:pranktoy/antumbra.git
+	url = https://github.com/pranktoy/antumbra.git
